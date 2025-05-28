@@ -32,10 +32,12 @@ npm install
 npm run test
 
 # Running
-npm run dev
-or:
-npm run build
-npm run preview
+- npm run dev
+
+or
+
+- npm run build
+- npm run preview
 
 
 
